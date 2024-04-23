@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414067748131",
+    "project_id": "bybike-ffefe",
+    "storage_bucket": "bybike-ffefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414067748131:android:31f330a25e4680ad28b096",
+        "android_client_info": {
+          "package_name": "com.rides.bybike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414067748131-0rcagi6jkg850o4sljgkcsc59segf2u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rides.bybike",
+            "certificate_hash": "fcec9bc76732561f6104fa3c39dd99dae6a335d8"
+          }
+        },
+        {
+          "client_id": "414067748131-kdu2tomfmheks2t054m366klmhckau11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSEx1yHGv-66K0llHTx6IlLAHf0501jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414067748131-kdu2tomfmheks2t054m366klmhckau11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

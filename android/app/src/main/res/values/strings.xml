@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<resources>
+    <string name="app_name">by_bike</string>
+    <string name="facebook_app_id">1493561458040246</string>
+    <string name="fb_login_protocol_scheme">fb1493561458040246</string>
+    <string name="facebook_client_token">d58dfa5312a024d2abb19d5fbaca8573</string>
+</resources>
