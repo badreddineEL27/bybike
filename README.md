@@ -4,19 +4,23 @@
 
 ByBike est une application de partage de motos similaire à Indriver. L'application permet aux utilisateurs de réserver facilement une moto disponible à proximité pour leurs trajets, offrant ainsi une alternative pratique et rapide aux autres modes de transport.
 
-<img src="https://github.com/badreddineEL27/bybike/assets/89709529/32310cc0-6754-431d-aa13-5c2af2681101" alt="image" style="width: 400px; height: auto;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/32310cc0-6754-431d-aa13-5c2af2681101" alt="image" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/719eefda-018f-4f1f-8672-596ef6f9a510" alt="32" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/2fa22d73-62f9-49f8-8f49-3eb8b6bfe0e3" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/d1b7c334-0257-4cf7-ad03-16c0de608909" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/1042de20-d9dc-4428-8e49-2810033eea17" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/bf36a5d6-f947-4f02-91be-a1cfec845cfa" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <img src="https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7" alt="31" style="width: 150px; height: auto; margin-bottom: 10px;">
+  <!-- Add more images here with the same styling -->
+</div>
 
 
-![32](https://github.com/badreddineEL27/bybike/assets/89709529/719eefda-018f-4f1f-8672-596ef6f9a510)
-![31](https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7)
-![30](https://github.com/badreddineEL27/bybike/assets/89709529/dbbb1cc0-f546-44f6-be4c-1b12291986e8)
-![29](https://github.com/badreddineEL27/bybike/assets/89709529/2fa22d73-62f9-49f8-8f49-3eb8b6bfe0e3)
-![28](https://github.com/badreddineEL27/bybike/assets/89709529/d1b7c334-0257-4cf7-ad03-16c0de608909)
-![27](https://github.com/badreddineEL27/bybike/assets/89709529/1042de20-d9dc-4428-8e49-2810033eea17)
-![26](https://github.com/badreddineEL27/bybike/assets/89709529/b3b41190-6954-49e2-9911-8438e880f49d)
-![25](https://github.com/badreddineEL27/bybike/assets/89709529/2c3c865e-77b0-49e6-ae73-f487c736cac7)
-![24](https://github.com/badreddineEL27/bybike/assets/89709529/055811eb-504d-4f54-8788-71df891b50c3)
-![23](https://github.com/badreddineEL27/bybike/assets/89709529/bf36a5d6-f947-4f02-91be-a1cfec845cfa)
 ![22](https://github.com/badreddineEL27/bybike/assets/89709529/c33219a5-00db-483b-95ad-29726bc97ef9)
 ![21](https://github.com/badreddineEL27/bybike/assets/89709529/79a2deb8-1b7e-43fe-8596-749a4fa5ceda)
 ![20](https://github.com/badreddineEL27/bybike/assets/89709529/e13262bf-939d-48b8-83c4-d295aed990d2)
