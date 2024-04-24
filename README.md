@@ -2,9 +2,10 @@
 
 ![Image1](https://github.com/badreddineEL27/bybike/assets/89709529/351c0e57-785d-42b1-9aa4-3b888c50b564)
 
-ByBike est une application de partage de motos similaire à Indriver L'application permet aux utilisateurs de réserver facilement une moto disponible à proximité pour leurs trajets, offrant ainsi une alternative pratique et rapide aux
-autres modes de transport.
-![image](https://github.com/badreddineEL27/bybike/assets/89709529/32310cc0-6754-431d-aa13-5c2af2681101){:height="400px" width="auto"}
+ByBike est une application de partage de motos similaire à Indriver. L'application permet aux utilisateurs de réserver facilement une moto disponible à proximité pour leurs trajets, offrant ainsi une alternative pratique et rapide aux autres modes de transport.
+
+<img src="https://github.com/badreddineEL27/bybike/assets/89709529/32310cc0-6754-431d-aa13-5c2af2681101" alt="image" style="width: 400px; height: auto;">
+
 
 ![32](https://github.com/badreddineEL27/bybike/assets/89709529/719eefda-018f-4f1f-8672-596ef6f9a510)
 ![31](https://github.com/badreddineEL27/bybike/assets/89709529/64b71377-29b5-4354-9591-65e86b90bdf7)
