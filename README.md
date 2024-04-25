@@ -67,5 +67,5 @@ Stay connected with us:
 
 - [Linkedin](https://www.linkedin.com/company/bybike-maroc/)
 - [Instagram](https://www.instagram.com/bybike.maroc?igsh=M2VvbGdsamE3aDBj)
-- [bybike-maroc.com](https://www.instagram.com/bybike.maroc?igsh=M2VvbGdsamE3aDBj)
+- [bybike-maroc.com](https://bybike-maroc.netlify.app/)
 
