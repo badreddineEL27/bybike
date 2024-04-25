@@ -1,5 +1,4 @@
-# bybike - Ride-sharing application 
-## FECCRA EXPO 2024 UNIVERSIAPOLIS
+# FECCRA EXPO 2024 UNIVERSIAPOLIS PROJECT | bybike - Ride-sharing application 
 
 ![Image1](https://github.com/badreddineEL27/bybike/assets/89709529/351c0e57-785d-42b1-9aa4-3b888c50b564)
 
