@@ -1,8 +1,27 @@
 # bybike - Ride-sharing application
 
 ![Image1](https://github.com/badreddineEL27/bybike/assets/89709529/351c0e57-785d-42b1-9aa4-3b888c50b564)
+# ByBike - Ride with Ease
 
-ByBike est une application de partage de motos similaire à Indriver. L'application permet aux utilisateurs de réserver facilement une moto disponible à proximité pour leurs trajets, offrant ainsi une alternative pratique et rapide aux autres modes de transport.
+ByBike is an application for motorcycle ride-sharing, similar to Indriver. The application allows users to easily book an available motorcycle nearby for their trips, providing a convenient and fast alternative to other modes of transportation.
+
+## Features
+
+- **Quick Rides:** Get to your destination faster with our speedy motorcycle service.
+- **Affordable:** Enjoy competitive rates that won't break the bank.
+- **Safe & Secure:** Our drivers are trained professionals dedicated to your safety.
+
+## Our Startup Team
+
+Meet the minds behind ByBike:
+
+- **Badreddine Ait El Khadir**
+- **Aya Oulhint**
+- **Nawal Lamghari**
+- **Nabil Ouaamer**
+- **Yassine Chalrhami** 
+
+## the App
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github.com/badreddineEL27/bybike/assets/89709529/9df9fb96-f225-40f7-952c-f9e0e1142757" alt="11" style="width: 150px; height: auto; margin-bottom: 10px;">
@@ -34,7 +53,19 @@ ByBike est une application de partage de motos similaire à Indriver. L'applicat
 <img src="https://github.com/badreddineEL27/bybike/assets/89709529/6a142de8-c645-472a-a880-e9731da78b45" alt="14" style="width: 150px; height: auto; margin-bottom: 10px;">
 <img src="https://github.com/badreddineEL27/bybike/assets/89709529/a5ceda19-4681-49d3-af49-2dd00d86b341" alt="13" style="width: 150px; height: auto; margin-bottom: 10px;">
 <img src="https://github.com/badreddineEL27/bybike/assets/89709529/0538139b-a187-4578-befb-fa87a244e731" alt="12" style="width: 150px; height: auto; margin-bottom: 10px;">
-
-
 </div>
+
+## Contact Us
+
+Have questions or feedback? Reach out to us!
+
+- **Address:** Campus Universiapolis Bab Al Madina, Quartier Tillila, Agadir 80000
+- **Email:** bybike05@gmail.com
+
+## Follow Us
+
+Stay connected with us:
+
+- [Linkedin](https://www.linkedin.com/company/bybike-maroc/)
+- [Instagram](https://www.instagram.com/bybike.maroc?igsh=M2VvbGdsamE3aDBj)
 
