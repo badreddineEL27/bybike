@@ -1,7 +1,6 @@
 # bybike - Ride-sharing application
 
 ![Image1](https://github.com/badreddineEL27/bybike/assets/89709529/351c0e57-785d-42b1-9aa4-3b888c50b564)
-# ByBike - Ride with Ease
 
 ByBike is an application for motorcycle ride-sharing, similar to Indriver. The application allows users to easily book an available motorcycle nearby for their trips, providing a convenient and fast alternative to other modes of transportation.
 
@@ -68,4 +67,5 @@ Stay connected with us:
 
 - [Linkedin](https://www.linkedin.com/company/bybike-maroc/)
 - [Instagram](https://www.instagram.com/bybike.maroc?igsh=M2VvbGdsamE3aDBj)
+- [bybike-maroc.com](https://www.instagram.com/bybike.maroc?igsh=M2VvbGdsamE3aDBj)
 
